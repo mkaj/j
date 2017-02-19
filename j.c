@@ -5,4 +5,3 @@ int main()
 	printf("j\n");
 	return 0;
 }
-
